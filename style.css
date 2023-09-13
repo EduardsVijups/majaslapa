@@ -1,0 +1,24 @@
+#txDiv {
+    text-align: center;
+}
+#poga {
+    margin-left: 47%;
+}
+#load {
+    width: 10%;
+    height: 10%;
+    display: none;
+}
+
+table, th, td {
+    border: 1px solid;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+iframe {
+    display: none;
+}
